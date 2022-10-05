@@ -20,7 +20,7 @@ public class Ejercicio_06 {
                 contador++;
             }
         }
-        System.out.println("los numeros pares son : " );
+        System.out.println("Los numeros pares son : " );
         for( i=0;i<contador;i++) {
             System.out.println(valor[i]);
         }

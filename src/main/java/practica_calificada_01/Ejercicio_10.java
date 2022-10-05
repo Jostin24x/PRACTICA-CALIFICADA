@@ -8,11 +8,11 @@ public class Ejercicio_10 {
     public static void main(String[]args) {
         Scanner dato = new Scanner(System.in);
         
-        System.out.println("Ingreseantidad de numeros ");
+        System.out.println("Ingrese la cantidad de numeros ");
         int elementos = dato.nextInt();
         int[] n = new int[elementos];
         
-        System.out.println("Ingresenúmeros a ordenar ");
+        System.out.println("Ingrese el números a ordenar ");
         for(int a = 0; a < n.length; a++) {
             n[a] = dato.nextInt();
         }

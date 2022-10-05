@@ -15,6 +15,6 @@ public class Ejercicio_05 {
             c=c+1;
             caracteres[i]=palabra.charAt(i); System.out.println(caracteres[i]);
         }
-        System.out.println("la cantidad de caracteres es : "+c);
+        System.out.println("La cantidad de caracteres es : "+c);
     } 
 }
